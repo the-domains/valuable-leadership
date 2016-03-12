@@ -1,0 +1,28 @@
+name: Valuable Leadership
+favicon: null
+layout_spectrum: 0.5838066139258444
+typography_spectrum: 0.09986216994002461
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.5195140889845788
+  lightness: 0.625680621014908
+  saturation: 0.9980216987896711
+  rhythmicContrast: 0.40704970294609666
+purpose: []
