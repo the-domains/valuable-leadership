@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Personal Values
-datePublished: '2016-03-13T07:36:17.902Z'
-dateModified: '2016-03-12T06:55:13.635Z'
+datePublished: '2016-03-13T15:58:19.108Z'
+dateModified: '2016-03-13T15:58:12.955Z'
 title: What Can a Barista Teach You About Leadership - Value Through a Gold Filter
 author: []
 authors: []
@@ -24,7 +24,7 @@ _type: Article
 ---
 # [What Can a Barista Teach You About Leadership - Value Through a Gold Filter][0]
 
-##   
+## July 20, 2015
 
 **Personal Values**
 
@@ -44,7 +44,6 @@ brand. Each of us gets to decide what we value, what's important. In
 social considerations, whether global, national, organizational or 
 personal configurations, we often look for common values, but each of us
 gets to decide what we value individually.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b399bdf4-4fb4-420a-accd-71fbc0e3deeb.jpg)
 
 Late one morning, as 
 the waves lengthened out, I was out front cleaning the condiment bar 
@@ -111,5 +110,6 @@ learned that leadership emanates from how I show up and what I do to
 influence the creation of value. How are you showing up? Are your 
 actions and behaviors aligned and creating the value you want and that 
 your organization needs?
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8cd42461-7d5a-40bf-92c1-782e5b8c4308.jpg)
 
-[0]: http://valuableleadership.squarespace.com/leadership-thoughts/value-through-a-gold-filter
+[0]: http://www.valuableleadership.com/leadership-thoughts/value-through-a-gold-filter
