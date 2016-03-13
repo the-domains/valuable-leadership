@@ -1,4 +1,4 @@
-name: Valuable Leadership
+name: Valuable Leadership™
 favicon: null
 layout_spectrum: 0.88168
 typography_spectrum: 0.09986216994002461
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
+    - '#000000'
+    - '#fefefe'
+    - '#565656'
+    - '#c9c9c9'
+    - '#969696'
   brandStrength: 0.5195140889845788
   lightness: 0.625680621014908
   saturation: 0.9980216987896711
