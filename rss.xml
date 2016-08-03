@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Master the Art & Science of Leadership™]]></title>
         <description><![CDATA[Master the Art & Science of Leadership™]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/valuable-leadership/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 13 Mar 2016 15:58:53 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 03 Aug 2016 18:04:30 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/valuable-leadership/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>test for good</p>]]></description>
+            <link>https://thegrid.ai/valuable-leadership/test-for-good/index.html</link>
+            <guid isPermaLink="false">80d24e4f-20d9-43f8-acab-cbbfe5cc974c</guid>
+            <pubDate>Wed, 03 Aug 2016 18:04:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[What Can a Barista Teach You About Leadership - Value Through a Gold Filter]]></title>
-            <description><![CDATA[<article><h1>What Can a Barista Teach You About Leadership - Value Through a Gold Filter</h1><p>Personal Values</p></article>]]></description>
-            <link>undefinedwhat-can-a-barista-teach-you-about-leadership-value-throug/index.html</link>
+            <description><![CDATA[<article><h1>What Can a Barista Teach You About Leadership - Value Through a Gold Filter</h1><h2>July 20, 2015</h2><p>Personal Values</p></article>]]></description>
+            <link>https://thegrid.ai/valuable-leadership/what-can-a-barista-teach-you-about-leadership-value-throug/index.html</link>
             <guid isPermaLink="false">7d89d6b2-01fa-440e-9428-97230f10e75b</guid>
             <pubDate>Sun, 13 Mar 2016 15:58:19 GMT</pubDate>
         </item>
